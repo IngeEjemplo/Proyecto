@@ -6,6 +6,12 @@
         <h2>Página de descripción de su aplicación.</h2>
     </hgroup>
 
+	
+	
+	
+	
+	
+	
     <article>
         <p>        
             Use esta área para proporcionar información adicional.
